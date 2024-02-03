@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 10" width="17" height="10">
+	<title>Arrow-svg</title>
+	<style>
+		.s0 { opacity: 0;fill: #204c65 } 
+		.s1 { fill: none;stroke: #204c65;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.6 } 
+	</style>
+	<path id="_0" class="s0" d="m-4-7h24v24h-24z"/>
+	<path id="arrow_" fill-rule="evenodd" class="s1" d="m1 4.8c1.8 0 4.7-0.4 4.7-4m0 7.9c0-3.6-2.9-3.9-4.7-3.9zm10.3-4h-14.9"/>
+</svg>

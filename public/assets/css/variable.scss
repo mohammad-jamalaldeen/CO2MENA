@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* Side bar */
+$sidebarWidth : 264px;
+
+/*  Color   */
+$primery:#32AE59;
+$primerydark:#32AE5999;
+$secondary:#204C65;
+$secondaryop1:rgba(32, 76, 101, 0.1);
+$secondaryop4:rgba(32, 76, 101, 0.4);
+$secondaryop5:rgba(32, 76, 101, 0.5);
+$secondaryop6:rgba(32, 76, 101, 0.6);
+$secondaryop7:rgba(32, 76, 101, 0.7);
+$secondaryop8:rgba(32, 76, 101, 0.8);
+$white:#FFFFFF;
+$black:#000;
+$red:#ff0000;
+$inputbg:rgba(240, 249, 246, 0.8); /*#F0F9F6*/
+$darkred:#E54F4F;
+$disable:#CEDBD3;
+$skylight:#D8E3EB;
+$border-color:#CBDBD6;
+$border-color2:#D5E2DE;
+$thead-color:#E8EDF1;
+$border-color3: #DBE6ED;
+
+
+
+
+/*  Font Size   */
+$f-xxs:10px;
+$f-xs:12px;
+$f-s:14px;
+$f-r:16px;
+$f-m:18px;
+$f-l:20px;
+$f-xl:22px;
+$f-xxl:24px;
+$f-xxx:26px;
+$f-xxxx:28px;
+$f-x30:30px;
+$f-x32:32px;
+$f-x36:36px;
+$f-x40:40px;
+
+/* Line Height  */
+$lhight-12:12px;
+$lhight-16:16px;
+$lhight-18:18px;
+$lhight-24:24px;
+$lhight-26:26px;
+$lhight-30:30px;
+$lhight-36:36px;
+$lhight-40:40px;
+
+/*  Font Family */
+$font-family:'Montserrat', sans-serif;
+
+/*  Font weight */
+$w-light:300;
+$w-regular:400;
+$w-medium:500;
+$w-smibold:600;
+$w-bold:700;
+$w-extrabold:800;
+$w-black:900;
+
+/*  Border Radius   */
+$radius-16: 16px;
+$border-radius:20px;
+$radius-24:24px;
+$border-radius100:100%;
+
+/*  Box Shadow  */
+$button-shadow: 0px 3px 3px #051B5433;
+$drop-down-box-shadow: #00000026;
+
+
+

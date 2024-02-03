@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Arrow" transform="translate(24)">
+    <rect id="_0" data-name="0" width="24" height="24" transform="translate(-24)" fill="#fff" opacity="0"/>
+    <path id="arrow_" data-name="arrow " d="M23.468,17.614H8.565m0,0c1.774,0,4.613-.331,4.613-3.974M8.565,17.614c1.774,0,4.613.331,4.613,3.974" transform="translate(-27.517 -5.847)" fill="none" stroke="#204c65" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+  </g>
+</svg>

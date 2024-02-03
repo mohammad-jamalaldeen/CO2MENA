@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="vuesax_linear_book" data-name="vuesax/linear/book" transform="translate(-492 -188)" opacity="0.8">
+    <g id="book" transform="translate(492 188)">
+      <path id="Vector" d="M0,10.667V3.333C0,.667.667,0,3.333,0H8c2.667,0,3.333.667,3.333,3.333V10c0,.093,0,.187-.007.28" transform="translate(2.333 1.333)" fill="none" stroke="#204c65" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M1.9,0h9.433V2.333A2.336,2.336,0,0,1,9,4.667H2.333A2.336,2.336,0,0,1,0,2.333V1.9A1.9,1.9,0,0,1,1.9,0Z" transform="translate(2.333 10)" fill="none" stroke="#204c65" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H5.333" transform="translate(5.333 4.667)" fill="none" stroke="#204c65" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H3.333" transform="translate(5.333 7)" fill="none" stroke="#204c65" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H16V16H0Z" transform="translate(16 16) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

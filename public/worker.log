@@ -1,0 +1,23 @@
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2024-01-22 10:28:03 App\Jobs\SendCustomerSupportEmail .............. RUNNING
+  2024-01-22 10:28:24 App\Jobs\SendCustomerSupportEmail ............. 20s FAIL
+  2024-01-22 10:33:58 App\Jobs\SendCustomerSupportEmail .............. RUNNING
+  2024-01-22 10:34:21 App\Jobs\SendCustomerSupportEmail ............. 22s FAIL
+  2024-01-23 07:19:45 App\Jobs\SendCustomerSupportEmail .............. RUNNING
+  2024-01-23 07:20:18 App\Jobs\SendCustomerSupportEmail ............. 32s FAIL
+  2024-01-23 07:28:55 App\Jobs\SendCustomerSupportEmail .............. RUNNING
+  2024-01-23 07:29:15 App\Jobs\SendCustomerSupportEmail ............. 20s FAIL
+  2024-01-23 07:32:09 App\Jobs\SendCustomerSupportEmail .............. RUNNING
+  2024-01-23 07:32:31 App\Jobs\SendCustomerSupportEmail ............. 21s FAIL
+  2024-01-23 07:36:52 App\Jobs\SendCustomerSupportEmail .............. RUNNING
+  2024-01-23 07:36:53 App\Jobs\SendCustomerSupportEmail ........ 931.28ms DONE
+  2024-01-23 07:37:53 App\Jobs\SendCustomerSupportEmail .............. RUNNING
+  2024-01-23 07:37:54 App\Jobs\SendCustomerSupportEmail ........ 601.63ms DONE
+  2024-01-23 08:37:05 App\Jobs\SendCustomerSupportEmail .............. RUNNING
+  2024-01-23 08:37:06 App\Jobs\SendCustomerSupportEmail ........ 289.86ms DONE
+  2024-01-23 08:37:28 App\Jobs\SendCustomerSupportEmail .............. RUNNING
+  2024-01-23 08:37:28 App\Jobs\SendCustomerSupportEmail ........ 389.25ms DONE
+  2024-01-23 08:46:49 App\Jobs\SendCustomerSupportEmail .............. RUNNING
+  2024-01-23 08:46:50 App\Jobs\SendCustomerSupportEmail ........ 421.39ms DONE

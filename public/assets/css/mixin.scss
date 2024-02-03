@@ -1,0 +1,180 @@
+@import '../css/variable';
+
+@mixin btn-primary{
+    border: none;
+    padding: 13px;
+    text-align: center;
+    background-color: $primery;
+    color: $white;
+    font-size: $f-s;
+    line-height: $lhight-18;
+    box-shadow: $button-shadow;
+    border-radius: $radius-24 + 1 ;
+    font-family: $font-family;
+    font-weight: $w-smibold;
+    transition: all 0.5s ease;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    width: 100%;
+    cursor: pointer;
+    @media (max-width:1199px){
+        padding: 10px 12px;
+    }
+    img{
+        transition: all 0.5s ease;
+    }
+
+    &:hover{
+        background-color: $secondary;
+        color: #FFF;
+
+        img{
+            transform: translateX(6px);
+        }
+    }
+    &:focus{
+        box-shadow: $button-shadow;
+        background-color: $secondary;
+        color: #FFF;
+    }
+    &:active{
+        box-shadow: $button-shadow;
+        background-color: $secondary;
+        color: #FFF;
+        &:focus{
+            box-shadow: $button-shadow;
+            background-color: $secondary;
+            color: #FFF;
+        }
+
+    }
+    
+    
+
+}
+
+@mixin back-button{
+    display: inline-block;
+    font-size: $f-xs;
+    line-height: $lhight-16;
+    font-family: $font-family;
+    font-weight: $w-smibold;
+    color: $secondary;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    border-radius: $radius-24;
+    border: 1px solid $secondary;
+    padding: 13px 24px;
+    transition: all 0.5s ease;
+    cursor: pointer;
+
+    &:hover{
+        background-color: $primery;
+        color: $white;
+        border-color: $primery;
+    }
+    @media (max-width:1199px){
+        padding: 10px 20px;
+    }
+}
+
+@mixin primery-sm-btn{
+    border-radius: $radius-24;
+    background-color: $primery;
+    color: $white;
+    font-size: $f-xs;
+    line-height: $lhight-16;
+    font-family: $font-family;
+    font-weight: $w-smibold;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    padding: 15px 24px;
+    transition: all 0.5s ease;
+    border: 1px solid transparent;
+    cursor: pointer;
+
+    &:hover{
+        background-color: $secondary;
+        border-color: $secondary;
+    }
+    @media (max-width:1199px){
+        padding: 10px 20px;
+    }
+
+}
+
+@mixin delete-button{ 
+    cursor: pointer;
+    border-radius: $radius-24 + 1;
+    background-color: transparent;
+    color: $darkred;
+    border: 1px solid $darkred;
+    font-size: $f-xs;
+    line-height: $lhight-16;
+    font-family: $font-family;
+    font-weight: $w-smibold;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    padding: 15px 24px;
+    transition: all 0.5s ease;
+
+    &:hover{
+        background-color: $darkred;
+        color: $white;
+    }
+    @media (max-width:1199px){
+        padding: 10px 20px;
+    }
+}
+
+@mixin close-btn{ 
+    cursor: pointer;
+    border-radius: $radius-24 + 1;
+    background-color: #6c757d;
+    color: $white;
+    border: 1px solid #6c757d;
+    font-size: $f-xs;
+    line-height: $lhight-16;
+    font-family: $font-family;
+    font-weight: $w-smibold;
+    letter-spacing: 1.2px;
+    text-transform: capitalize;
+    padding: 15px 24px;
+    transition: all 0.5s ease;
+
+    &:hover{
+        background-color: #6c757d;
+        border-color: #6c757d;
+        color: $white;
+    }
+    @media (max-width:1199px){
+        padding: 10px 20px;
+    }
+}
+
+@mixin reset-btn{
+    cursor: pointer;
+    border-radius: 40px;
+    background-color: transparent;
+    color: $secondary;
+    border: 1px solid $secondary;
+    font-size: $f-xs;
+    line-height: $lhight-16;
+    font-family: $font-family;
+    font-weight: $w-smibold;
+    letter-spacing: 1.2px;
+    text-transform: capitalize;
+    padding: 13px 24px;
+    transition: all 0.5s ease;
+    &:hover{
+        background-color: $secondary;
+        border-color: $secondary;
+        color: $white;
+    }
+    @media (max-width:1280px){
+        padding: 13px 18px;
+    }
+    @media (max-width:1199px){
+        padding: 10px 20px;
+    }
+}
