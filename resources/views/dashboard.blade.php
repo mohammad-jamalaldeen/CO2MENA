@@ -64,7 +64,7 @@
                                 <!-- <canvas id="total emissions" width="400" height="400"></canvas> -->
                                 <!-- image('assets/images/abc.png', 'a picture') }} -->
                                 <!-- <picture> -->
-                                    <img src="{{ asset('assets/images/abc.png') }}" alt="export-icon" title="export-icon" width="1000" height="1000">
+                                    <img src="{{ asset('assets/images/1.png') }}" alt="export-icon" title="export-icon" width="1000" height="1000">
                                 <!-- </picture>  -->
                             </div>
                         </li>
